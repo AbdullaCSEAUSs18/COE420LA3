@@ -11,9 +11,11 @@ package la3;
  */
 public class LA3 {
 
-    /**
-     * @param args the command line arguments
-     */
+   //Member B feature
+    public void feature_b()
+    {
+          System.out.println("Feature b added");
+    }
     public static void main(String[] args) {
        System.out.println("HelloWorld"); 
     }
