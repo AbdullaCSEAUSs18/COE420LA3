@@ -17,7 +17,7 @@ public class LA3 {
           System.out.println("Feature b added");
     }
     public static void main(String[] args) {
-       System.out.println("HelloWorld"); 
+       System.out.println("Hello World"); 
     }
     
 }
